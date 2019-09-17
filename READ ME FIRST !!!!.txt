@@ -1,0 +1,12 @@
+PRODUCT INVENTORY SYSTEM IN PHP
+
+**ADMIN LOGIN DETAILS**
+
+Username: admin
+Password: 111
+
+**USER LOGIN DETAILS**
+
+Username: user
+Password: a
+
